@@ -1,5 +1,5 @@
 # Explore um índice do Azure AI Search
-
+No Laboratório 04 Prática, foi explorado o uso do AI-search para analisar a satisfação dos clientes em uma empresa de cafés. Foram criados um mecanismo de busca e um recurso de inteligência artificial para processar e extrair insights dos dados coletados. Os documentos foram importados para o AI-search, onde foram realizadas buscas e análises para entender o nível de satisfação dos clientes. Após a análise, os dados podem ser exportados em diferentes formatos para uso posterior. O objetivo foi demonstrar como o AI-search pode ser uma ferramenta eficaz para analisar a satisfação dos clientes e obter insights valiosos para uma empresa.
 ## Para utilizar a IA-search para analisar a satisfação dos clientes em uma empresa de cafés, você pode seguir os passos:
 - 1. Criar um mecanismo de busca: utilizando o IA-search para coletar informações relevantes sobre a satisfação dos clientes.
 - 2. Criar um recurso de inteligência artificial: desenvolva um recurso de inteligência artificial para processar os dados coletados e extrair insights.
